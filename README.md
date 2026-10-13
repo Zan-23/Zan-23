@@ -1,9 +1,10 @@
 ## 📜 About Me:
 
-👋🏻 Hi, I am a Slovenian guy 🏔️🏞️🇸🇮        
-👨🏻‍🎓 Data Engineering & Analytics Master's student at the Technical University of Munich 🇩🇪  
+👋🏻 Hi, I am guy who love to build things 🏔️🏞️    
+🧑‍💻 Currently working at Netlight Consulting as a Machine Learning engineer 🏋️
+👨🏻‍🎓 Data Engineering & Analytics from Technical University of Munich 🇩🇪  
 👨‍💻 Passionate about Data Science & Software engineering
-👶 24 years    
+👶 27 years    
     
 Commits are frequent, bugs are too, Žan’s GPU crashed at line 22
     
