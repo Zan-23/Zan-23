@@ -3,7 +3,7 @@
 👋🏻 Hi, I am just guy who loves to build things 🏔️🏞️      
 🧑‍💻 Currently working at Netlight Consulting as a Machine Learning engineer 🏋️     
 👨🏻‍🎓 Data Engineering & Analytics from Technical University of Munich 🇩🇪  
-👨‍💻 Passionate about Data Science & Software engineering. 
+👨‍💻 Passionate about Data Science & Software engineering 👨‍💻
     
 Commits are frequent, bugs are too, Žan’s GPU crashed at line 22
     
