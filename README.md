@@ -1,6 +1,6 @@
 ## 📜 About Me:
 
-👋🏻 Hi, I am guy who love to build things 🏔️🏞️    
+👋🏻 Hi, I am just guy who loves to build things 🏔️🏞️    
 🧑‍💻 Currently working at Netlight Consulting as a Machine Learning engineer 🏋️
 👨🏻‍🎓 Data Engineering & Analytics from Technical University of Munich 🇩🇪  
 👨‍💻 Passionate about Data Science & Software engineering
